@@ -1,0 +1,5 @@
+# Admin Panel configuration
+
+admin.baseUrl=http://localhost:8080
+admin.maxCodesPerBatch=1000
+admin.codeLength=10
