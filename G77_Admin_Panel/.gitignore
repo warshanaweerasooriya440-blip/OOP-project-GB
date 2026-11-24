@@ -1,0 +1,4 @@
+target/
+nbproject/
+config/admin.properties
+*.class
